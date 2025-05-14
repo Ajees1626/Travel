@@ -1,4 +1,3 @@
-Flask
-Flask-cors
+flask
+flask-cors
 python-dotenv
- 
